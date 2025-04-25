@@ -37,10 +37,12 @@ git clone [repository-url]
 # Install backend dependencies
 cd backend
 npm install
+npm run dev
 
 # Install frontend dependencies
 cd ../frontend
 npm install
+npm run start
 ```
 
 3. Configure environment variables
